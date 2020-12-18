@@ -1,4 +1,4 @@
-# mapa-14-12-2020-js
+# mapa
 
 ## Project setup
 ```
